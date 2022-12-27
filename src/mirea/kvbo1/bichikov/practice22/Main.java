@@ -1,4 +1,4 @@
-package practice22;
+package mirea.kvbo1.bichikov.practice22;
 
 import java.util.Stack;
 import java.util.Scanner;
